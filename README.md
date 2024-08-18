@@ -1,19 +1,16 @@
 # SQL and Tableau Data Analysis Project
 
 ## Overview
-This project combines SQL data analysis with Tableau visualizations to explore and present insights from [your specific dataset or topic]. The SQL queries are designed to extract meaningful information from the database, while Tableau is used to create interactive and informative visualizations of the results.
+This project combines SQL data analysis with Tableau visualizations and then Powerpoint slides to explore and present insights from our database
 
 ## Project Components
 
 ### SQL Analysis
-- **Query File**: The SQL queries are stored in a PDF file, following Udacity's metric for query documentation.
-- **Database**: [[Sakilla Movie Database](https://www.kaggle.com/code/dilarabr/dvd-rental-database-project-sqlite)]
+- **Query File**: The SQL queries are stored in a PDF file, following Udacity's metric for query documentation
+- **Database**: The database file can be accessed here, [[Sakilla Movie Database](https://www.kaggle.com/code/dilarabr/dvd-rental-database-project-sqlite)]
 
 ### Tableau Visualizations
 - **Visualization File**: The Tableau visualizations, done [here](https://public.tableau.com/app/profile/ayo.mosaku/viz/MovieDatabaseEDA/Story1), were exported to a PowerPoint presentation (PPTX), as in the 'finaltableaueda-' files
-
-
-## Getting Started
 
 ### Prerequisites
 - SQL database management system (PostgreSQL)
