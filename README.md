@@ -39,3 +39,8 @@ To work with this project, you'll need:
 - `finaltableaueda.pptx`: PowerPoint presentation of Tableau visualizations.
 - `finaltableaueda.pdf`: PDF version of PowerPoint slides.
 - `README.md`: This file, providing an overview of the project.
+
+## Licensing 
+Copyright (c) 2024, Ayo
+
+This project is for personal and educational purposes only. All rights reserved.
